@@ -2,7 +2,7 @@
 
 ## Installation and Setup Instructions
 
-Clone or pull this repository. You will need `node` and `npm` installed globally on your machine.  
+Clone this repository using `git clone https://github.com/SoftDevDanial/acs-digital-frontend-engineer-assesment.git`. You will need `node` and `npm` installed globally on your machine.  
 
 Installation:
 
