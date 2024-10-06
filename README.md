@@ -14,9 +14,9 @@ To Start Server:
 
 To Visit App:
 
-`localhost:3000/`  - Main Page
-`localhost:3000/navbar`  - Challenge 1
-`localhost:3000/calculator`  - Challenge 2
-`localhost:3000/question3`  - Challenge 3 (Please refer console for answers)
+`localhost:3000/`  - Main Page <br>
+`localhost:3000/navbar`  - Challenge 1 <br>
+`localhost:3000/calculator`  - Challenge 2 <br>
+`localhost:3000/question3`  - Challenge 3 (Please refer console for answers) <br>
 
 Page Code and MCQ answers: ./src/pages/answers
